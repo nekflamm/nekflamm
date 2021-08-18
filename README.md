@@ -1,5 +1,11 @@
 ### Hey 🔥
 
+Mobile Killer 🇫🇷 iOS Lover
+
+[![Nekflamm's github stats](https://github-readme-stats.vercel.app/api?username=nekflamm&count_private=true&show_icons=true&theme=dark)](https://github.com/nekflamm/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekflamm&theme=dark&langs_count=3&layout=compact)](https://github.com/nekflamm/github-readme-stats)
+
 <!--
 **nekflamm/nekflamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
