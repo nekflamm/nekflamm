@@ -6,6 +6,13 @@ Mobile Killer 🇫🇷 iOS Lover
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekflamm&theme=dark&langs_count=3&layout=compact)](https://github.com/nekflamm/github-readme-stats)
 
+## Skills:
+
+[![iOS](https://img.shields.io/badge/iOS-3DDC84?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/Swift-0095D5?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Objective-C](https://img.shields.io/badge/Objective_C-0095D5?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![XCode](https://img.shields.io/badge/XCode-3DDC84?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
+
 
 ## Find me at:
 [![Instagram](https://img.shields.io/badge/Instagram-@nekflamm-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nekflamm)
