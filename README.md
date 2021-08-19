@@ -17,6 +17,7 @@ We build, grow and buy social consumer apps. Takeoff Labs is a full stack ventur
 ![imageonline-co-roundcorner-5](https://user-images.githubusercontent.com/10321963/130106559-f4bfd26b-4508-4560-a0b0-a8a069b401e7.png)
 ![imageonline-co-roundcorner-6](https://user-images.githubusercontent.com/10321963/130106568-0a3957db-3955-41aa-9e87-b018ca0bb217.png)
 ![imageonline-co-roundcorner-7](https://user-images.githubusercontent.com/10321963/130106575-bb7e2642-7b53-4422-87ac-926607c20928.png)
+<img src="https://user-images.githubusercontent.com/10321963/130106497-79668f5a-7af6-4cb9-a748-c3cb0e5818f8.png" width="100" height="100">
 
 
 ## Skills
