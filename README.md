@@ -4,7 +4,7 @@
 
 We build, grow and buy social consumer apps. Takeoff Labs is a full stack venture studio building its own products, funding and acquiring promising companies.
 
-[![Nekflamm's github stats](https://github-readme-stats.vercel.app/api?username=nekflamm&count_private=true&show_icons=true&theme=dark)](https://github.com/nekflamm/github-readme-stats)
+[![Nekflamm's github stats](https://github-readme-stats.vercel.app/api?username=nekflamm&count_private=true&show_icons=false&theme=algolia)](https://github.com/nekflamm/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekflamm&theme=dark&langs_count=3&layout=compact)](https://github.com/nekflamm/github-readme-stats)
 
