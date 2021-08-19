@@ -11,7 +11,7 @@ We build, grow and buy social consumer apps. Takeoff Labs is a full stack ventur
 
 ## App store
 <p align="center">
-  <img style="border-radius: 50%;" src="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/94/98/e9/9498e997-c09a-a827-193d-96b6db87f71f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/150x150bb.png" width="80" title="hover text">
+  <img style="border-radius: 8px" src="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/94/98/e9/9498e997-c09a-a827-193d-96b6db87f71f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/150x150bb.png" width="80" title="hover text">
 </p>
 
 ## Skills
