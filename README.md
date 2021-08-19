@@ -6,6 +6,8 @@ Mobile Killer 🇫🇷 iOS Lover
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekflamm&theme=dark&langs_count=3&layout=compact)](https://github.com/nekflamm/github-readme-stats)
 
+Currently leading iOS Team of [@TakeOffLabs](https://www.takeoff-labs.com)
+
 ## Skills:
 
 [![iOS](https://img.shields.io/badge/iOS-3DDC84?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
