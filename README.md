@@ -1,7 +1,7 @@
 ### Hey 🔥
 
-Mobile Killer 🇫🇷 iOS Lover
-Leading the iOS Team of [@TakeOffLabs](https://www.takeoff-labs.com) 
+🇫🇷 iOS Lover
+Leading the iOS killers Team @ [@TakeOffLabs](https://www.takeoff-labs.com) 
 
 We build, grow and buy social consumer apps. Takeoff Labs is a full stack venture studio building its own products, funding and acquiring promising companies.
 
