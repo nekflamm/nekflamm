@@ -7,7 +7,7 @@ We build, grow and buy social consumer apps. Takeoff Labs is a full stack ventur
 ## Skills
 
 [![iOS](https://img.shields.io/badge/iOS-3DDC84?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-0095D5?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/Swift-3DDC84?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![XCode](https://img.shields.io/badge/XCode-3DDC84?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 
 
