@@ -8,7 +8,7 @@ Mobile Killer 🇫🇷 iOS Lover
 
 
 ## Find me at:
-[![Instagram](https://img.shields.io/badge/Instagram-@Fede_Nieto-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nekflamm)
+[![Instagram](https://img.shields.io/badge/Instagram-@nekflamm-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nekflamm)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Fede_nieto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kévin-empociello-🔥-530a8bb2/)
 
